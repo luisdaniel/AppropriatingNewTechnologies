@@ -1,0 +1,461 @@
+TScreenGrab
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004E41CE44000000000001BA20
+t1312935492
+s113184
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004E8D7E05000000000234F4A0
+t1317895685
+s37024928
+
+N/System/Library/Frameworks/AppKit.framework/Headers/NSOpenGL.h
+c000000004E794DAC00000000000031F0
+t1316572588
+s12784
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E41CDE5000000000000B750
+t1312935397
+s46928
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004E8D804E000000000039E5E0
+t1317896270
+s3794400
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E41CDE60000000000006530
+t1312935398
+s25904
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004E7A9B9600000000000005FE
+t1316658070
+s1534
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E41CDE70000000000006560
+t1312935399
+s25952
+
+N/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004E9663A800000000001195D0
+t1318478760
+s1152464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004E8D7E9B000000000060E710
+t1317895835
+s6350608
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004E9663A8000000000000B870
+t1318478760
+s47216
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004E9663A9000000000011FDA0
+t1318478761
+s1179040
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004E9663A9000000000002D2A0
+t1318478761
+s184992
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004E8D7F4D000000000032B6C0
+t1317896013
+s3323584
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvFloatImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxOpenCv.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx/GLUT.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/MacOS/ScreenGrabDebug
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/openFrameworks.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ScreenGrabDebug.LinkFileList
+c000000004F2B471400000000000006B6
+t1328236308
+s1718
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvColorImage.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvContourFinder.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvFloatImage.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvGrayscaleImage.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvHaarFinder.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvImage.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvShortImage.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004F2B47140000000000000114
+t1328236308
+s276
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.h
+c000000004F2B46D3000000000000009A
+t1328236243
+s154
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m
+c000000004F2B46D30000000000000E3B
+t1328236243
+s3643
+i<Cocoa/Cocoa.h>
+i<AppKit/NSOpenGL.h>
+i"macGlutfix.h"
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp
+c000000004F2B46D3000000000000019E
+t1328236243
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp
+c000000004F2B46D30000000000000B28
+t1328236243
+s2856
+i"testApp.h"
+i"macGlutfix.h"
+
+N/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h
+c000000004F2B46D300000000000002AC
+t1328236243
+s684
+i"ofMain.h"
+i"ofxOpenCv.h"
+
+N/var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch
+t2
+s0
+
+N/var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004F2B46D30000000000000277
+t1328236243
+s631
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvFloatImage.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvImage.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp
+r0
+
+CBuild AST from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies574217947edbb441^240c1f947edbb441^-127"[WARN]Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"2(21%IDEActivityLogMessage2@77"Missing dependency target "openFrameworks (from openFrameworksLib.xcodeproj)"-349929108#18446744073709551615#0#-1#-----2@120"Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"-349929108#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies36"B4D931BF-ECC4-47AC-B2EB-DBEA0E5D0E44-
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s349929111.443730
+e349929112.216994
+r1
+xCompileC
+xbuild/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o
+x/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.mb7b571977edbb441^658c37987edbb441^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m0000000000000000^1845"CompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o src/macGlutfix.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-protocol -Wno-deprecated-declarations -gdwarf-2 -msse3 -mssse3 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/ScreenGrabDebug.hmap -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/include -I../../../addons/ofxOpenCv/src -I../../../addons/ofxOpenCv/libs/opencv/include -I../../../addons/ofxOpenCv/libs/opencv/include/opencv -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources/i386 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx -include /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h -c /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/macGlutfix.m -o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/macGlutfix.o36"D9A41632-28B5-46E0-A31B-876E1104EE8E-
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s349929112.693021
+e349929112.747374
+r0
+xCompileC
+xbuild/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o
+x/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:1:20: error: ofMain.h: No such file or directory
+oIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:2:
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:4:23: error: ofxOpenCv.h: No such file or directory
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directory
+oIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:2:
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:20: error: 'ofDragInfo' has not been declared
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:21: error: 'ofMessage' has not been declared
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:28: error: 'ofImage' does not name a type
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:29: error: 'ofxCvHaarFinder' does not name a type
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp: In function 'int main()':
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:8: error: expected `;' before 'window'
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'window' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:15: error: 'ofRunApp' was not declared in this scope
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp9487b1987edbb441^0037bf987edbb441^-2534"/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:1:20: error: ofMain.h: No such file or directoryIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:2:/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:4:23: error: ofxOpenCv.h: No such file or directory/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directoryIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:2:/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:6: error: expected class-name before '{' token/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:20: error: 'ofDragInfo' has not been declared/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:21: error: 'ofMessage' has not been declared/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:28: error: 'ofImage' does not name a type/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:29: error: 'ofxCvHaarFinder' does not name a type/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp: In function 'int main()':/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:8: error: expected `;' before 'window'/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'window' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp:15: error: 'ofRunApp' was not declared in this scope14(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-349929112#0#152#-2#-23%DVTTextDocumentLocation3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@38"OfxOpenCv.h: No such file or directory-349929112#280#156#2(36%IDEActivityLogHeaderInclusionMessage4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@145"OfxOpenCv.h: No such file or directory in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@44"OfAppGlutWindow.h: No such file or directory-349929112#436#161#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@36"Expected class-name before '{' token-349929112#725#151#2(4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@143"Expected class-name before '{' token in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-349929112#876#150#2(4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@141"'ofDragInfo' has not been declared in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-349929112#1026#149#2(4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@140"'ofMessage' has not been declared in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@30"'ofImage' does not name a type-349929112#1175#146#2(4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@137"'ofImage' does not name a type in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@38"'ofxCvHaarFinder' does not name a type-349929112#1321#154#2(4@124"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp-349929112#18446744073709551615#0#-0#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@145"'ofxCvHaarFinder' does not name a type in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2#-3@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@48"'ofAppGlutWindow' was not declared in this scope-349929112#1605#162#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@28"Expected `;' before 'window'-349929112#1767#142#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@39"'window' was not declared in this scope-349929112#1909#153#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@42"'OF_WINDOW' was not declared in this scope-349929112#2062#156#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@46"'ofSetupOpenGL' was not declared in this scope-349929112#2218#160#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"'ofRunApp' was not declared in this scope-349929112#2378#156#-2#-3@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^14#18446744073709551615#14#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation5@118"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp0000000000000000^1845"CompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/ScreenGrabDebug.hmap -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/include -I../../../addons/ofxOpenCv/src -I../../../addons/ofxOpenCv/libs/opencv/include -I../../../addons/ofxOpenCv/libs/opencv/include/opencv -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources/i386 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h -c /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/main.cpp -o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/main.o36"D3BA57DF-02E0-4DF7-A23A-39BF86BD1B6C-
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvColorImage.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvColorImage.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvContourFinder.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvContourFinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvFloatImage.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvFloatImage.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvGrayscaleImage.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvHaarFinder.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvHaarFinder.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvImage.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvImage.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/ofxCvShortImage.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../addons/ofxOpenCv/src/ofxCvShortImage.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s349929112.693027
+e349929112.848773
+r0
+xCompileC
+xbuild/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o
+x/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:1:
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:3:20: error: ofMain.h: No such file or directory
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:4:23: error: ofxOpenCv.h: No such file or directory
+oIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:1:
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:6: error: expected class-name before '{' token
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:20: error: 'ofDragInfo' has not been declared
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:21: error: 'ofMessage' has not been declared
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:28: error: 'ofImage' does not name a type
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:29: error: 'ofxCvHaarFinder' does not name a type
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::setup()':
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:11: error: 'ofGetWidth' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:12: error: 'ofGetHeight' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:14: error: 'finder' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:18: error: 'image' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:18: error: 'OF_IMAGE_COLOR' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:21: error: 'ofSetFrameRate' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::update()':
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:28: error: 'ofGetWidth' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:29: error: 'ofGetHeight' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:31: error: 'ofGetWindowPositionX' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:31: error: 'ofGetWindowPositionY' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:49: error: 'image' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:49: error: 'OF_IMAGE_COLOR_ALPHA' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:50: error: 'OF_IMAGE_COLOR' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:52: error: 'finder' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::draw()':
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'image' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'ofGetWidth' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'ofGetHeight' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:65: error: 'ofNoFill' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:69: error: 'finder' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:70: error: 'ofRect' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: At global scope:
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:111: error: variable or field 'gotMessage' declared void
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:111: error: 'ofMessage' was not declared in this scope
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:116: error: variable or field 'dragEvent' declared void
+o/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:116: error: 'ofDragInfo' was not declared in this scope
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cppb587b1987edbb441^98f704997edbb441^-5778"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:1:/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:3:20: error: ofMain.h: No such file or directory/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:4:23: error: ofxOpenCv.h: No such file or directoryIn file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:1:/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:6: error: expected class-name before '{' token/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:20: error: 'ofDragInfo' has not been declared/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:21: error: 'ofMessage' has not been declared/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:28: error: 'ofImage' does not name a type/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h:29: error: 'ofxCvHaarFinder' does not name a type/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::setup()':/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:11: error: 'ofGetWidth' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:12: error: 'ofGetHeight' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:14: error: 'finder' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:18: error: 'image' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:18: error: 'OF_IMAGE_COLOR' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:21: error: 'ofSetFrameRate' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::update()':/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:28: error: 'ofGetWidth' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:29: error: 'ofGetHeight' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:31: error: 'ofGetWindowPositionX' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:31: error: 'ofGetWindowPositionY' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:49: error: 'image' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:49: error: 'OF_IMAGE_COLOR_ALPHA' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:50: error: 'OF_IMAGE_COLOR' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:52: error: 'finder' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: In member function 'void testApp::draw()':/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'image' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'ofGetWidth' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:63: error: 'ofGetHeight' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:65: error: 'ofNoFill' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:69: error: 'finder' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:70: error: 'ofRect' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp: At global scope:/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:111: error: variable or field 'gotMessage' declared void/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:111: error: 'ofMessage' was not declared in this scope/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:116: error: variable or field 'dragEvent' declared void/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp:116: error: 'ofDragInfo' was not declared in this scope32(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-349929112#131#153#2(36%IDEActivityLogHeaderInclusionMessage3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@142"OfMain.h: No such file or directory in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@38"OfxOpenCv.h: No such file or directory-349929112#284#156#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@145"OfxOpenCv.h: No such file or directory in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@36"Expected class-name before '{' token-349929112#571#151#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@143"Expected class-name before '{' token in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-349929112#722#150#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@141"'ofDragInfo' has not been declared in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-349929112#872#149#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@140"'ofMessage' has not been declared in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@30"'ofImage' does not name a type-349929112#1021#146#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@137"'ofImage' does not name a type in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@38"'ofxCvHaarFinder' does not name a type-349929112#1167#154#2(3@127"In file included from /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp-349929112#18446744073709551615#0#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@145"'ofxCvHaarFinder' does not name a type in /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h-349929112#18446744073709551615#0#-0#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#---2#-4@119"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.h0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@43"'ofGetWidth' was not declared in this scope-349929112#1472#161#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^10#18446744073709551615#10#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"'ofGetHeight' was not declared in this scope-349929112#1633#162#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^11#18446744073709551615#11#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'finder' was not declared in this scope-349929112#1795#157#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@38"'image' was not declared in this scope-349929112#1952#156#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@47"'OF_IMAGE_COLOR' was not declared in this scope-349929112#2108#165#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^17#18446744073709551615#17#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@47"'ofSetFrameRate' was not declared in this scope-349929112#2273#165#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"'ofGetWidth' was not declared in this scope-349929112#2590#161#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"'ofGetHeight' was not declared in this scope-349929112#2751#162#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@53"'ofGetWindowPositionX' was not declared in this scope-349929112#2913#171#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@53"'ofGetWindowPositionY' was not declared in this scope-349929112#3084#171#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@38"'image' was not declared in this scope-349929112#3255#156#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@53"'OF_IMAGE_COLOR_ALPHA' was not declared in this scope-349929112#3411#171#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^48#18446744073709551615#48#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@47"'OF_IMAGE_COLOR' was not declared in this scope-349929112#3582#165#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^49#18446744073709551615#49#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'finder' was not declared in this scope-349929112#3747#157#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@38"'image' was not declared in this scope-349929112#4054#156#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"'ofGetWidth' was not declared in this scope-349929112#4210#161#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"'ofGetHeight' was not declared in this scope-349929112#4371#162#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"'ofNoFill' was not declared in this scope-349929112#4533#159#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^64#18446744073709551615#64#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'finder' was not declared in this scope-349929112#4692#157#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^68#18446744073709551615#68#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'ofRect' was not declared in this scope-349929112#4849#157#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--32%IDEActivityLogContextInfoMessage5@16"At global scope:-349929112#5006#124#-0#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@44"Variable or field 'gotMessage' declared void-349929112#5130#163#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^110#18446744073709551615#110#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@42"'ofMessage' was not declared in this scope-349929112#5293#161#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^110#18446744073709551615#110#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"Variable or field 'dragEvent' declared void-349929112#5454#162#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^115#18446744073709551615#115#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'ofDragInfo' was not declared in this scope-349929112#5616#162#-2#-4@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^115#18446744073709551615#115#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation6@121"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp0000000000000000^1857"CompileC build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/ScreenGrabDebug.hmap -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/include -I../../../addons/ofxOpenCv/src -I../../../addons/ofxOpenCv/libs/opencv/include -I../../../addons/ofxOpenCv/libs/opencv/include/opencv -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources/i386 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h -c /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/src/testApp.cpp -o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Objects-normal/i386/testApp.o36"7AF559F3-6851-432A-8263-8B7040B67515-
+
+CLd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/MacOS/ScreenGrabDebug normal i386
+r0
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/ScreenGrabDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s349929108.133760
+e349929108.138720
+r1
+xProcessInfoPlistFile
+x/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plistde5a22947edbb441^99d523947edbb441^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/openFrameworks-Info.plist0000000000000000^561"ProcessInfoPlistFile bin/ScreenGrabDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app/Contents/Info.plist36"02DA97E1-DB1E-4305-A5CB-FB49AC2C7E25-
+
+CProcessPCH /Users/luisdaniel12/Library/Developer/Xcode/DerivedData/ScreenGrab-brlnvtbglimitkgfmgpcobnclejx/Index/PrecompiledHeaders/Carbon-egojzspgqpaoancyjiuavipkumww_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 objective-c com.apple.compilers.llvmgcc42
+s349929108.148464
+e349929111.436057
+r1
+xProcessPCH
+x/var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h271426947edbb441^f9a06f977edbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^1742"ProcessPCH /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-protocol -Wno-deprecated-declarations -gdwarf-2 -msse3 -mssse3 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/ScreenGrabDebug.hmap -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/include -I../../../addons/ofxOpenCv/src -I../../../addons/ofxOpenCv/libs/opencv/include -I../../../addons/ofxOpenCv/libs/opencv/include/opencv -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources/i386 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-clzlxurybrnttfbjuccsbhspbzem/Carbon.h.gch36"711A70AC-9552-4988-8135-1F958E411263-
+
+CProcessPCH++ /Users/luisdaniel12/Library/Developer/Xcode/DerivedData/ScreenGrab-brlnvtbglimitkgfmgpcobnclejx/Index/PrecompiledHeaders/Carbon-hkxhhzzkfpfznccuiyrlcjadpsqs_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+s349929108.147437
+e349929112.685354
+r1
+xProcessPCH++
+x/var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h3fe425947edbb441^8272af987edbb441^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^1764"ProcessPCH++ /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/ScreenGrabDebug.hmap -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/include -I../../../addons/ofxOpenCv/src -I../../../addons/ofxOpenCv/libs/opencv/include -I../../../addons/ofxOpenCv/libs/opencv/include/opencv -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources/i386 -I/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/build/ScreenGrab.build/Debug/ScreenGrab.build/DerivedSources -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin -F/Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/bk/5dfp1b315kg26zr9n5xmt3400000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-cbbkfjnfsimvzferwrdtkobhqhpb/Carbon.h.gch36"485748CF-2E9F-4F33-9324-3BA0533A413E-
+
+CTouch /Users/luisdaniel12/Documents/ITP/of_preRelease_v007_osx/apps/AppNewTech/week1/ScreenGrab/bin/ScreenGrabDebug.app
+r0
+
